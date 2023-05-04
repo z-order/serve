@@ -12,3 +12,4 @@ build/
 *.tgz
 *.bak
 *.tmp
+.DS_Store
